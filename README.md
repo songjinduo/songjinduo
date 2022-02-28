@@ -10,10 +10,3 @@ Here are some ideas to get you started:
 - 🤔 I am looking for an opportunity to work in an IT company.
 - 📫 How to reach me: songjinduo@tju.edu.cn
 
-
-
-### Hello~ 👋
-
-- :orange_book: 
-- :hammer: 
-- :ram: 
