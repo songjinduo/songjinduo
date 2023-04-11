@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Status: I am currently pursuing the M.S. degree with Tianin University in the second year.
 - 🌱 Research: My interests are Edge computing, reinforcement learning and Internet of Things.
 - 👯 Aim: Be a programmer who loves life, understands technology and has an emotional appeal.
 - 🤔 I am looking for an opportunity to work in an IT company.
